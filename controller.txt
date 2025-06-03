@@ -2,3 +2,19 @@ Creación del controlador desde main
 Primera modificación desde main
 Segunda modificación desde main
 
+Modificación user1
+Hola mundo desde user1
+
+Apartado de videojuegos (user2)
+League of legends
+Warzone
+Helldivers 2
+Minecraft
+Overwatch 2
+
+Nuevo juegos (user2)
+Expection 33
+
+Personajes Hot de videojuego
+Bayoneta
+Samus
