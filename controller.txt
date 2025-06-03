@@ -18,3 +18,5 @@ Expection 33
 Personajes Hot de videojuego
 Bayoneta
 Samus
+
+Ultimo cambio desde HotFix
